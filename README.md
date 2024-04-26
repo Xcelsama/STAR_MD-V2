@@ -1,17 +1,26 @@
+
+
+
+[`ℹ️ ＦＯＬＬＯＷ ＦＯＲ ＵＰＤＡＴＥＳ
+`](https://github.com/Xcelsama)
+
+
+
+
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
       <p align="center">[🇸 🇹 🇦 🇷 -🇲 🇩 ](https://wa.me/+2347045035241)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=700&color=BggB&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+I'm+STAR-MD-V2................+;A+Multi-fuctional+WhatsApp+bot.......;+++++BY+EXCEL+AMADI............." alt="Typing SVG" /></a>  
 
 
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
 `](https://wa.me/+2347045035241)
 
- 
+ [`If there's every error or no function is working consider using this`](https://github.com/EX-BOTS/STAR-MD-V2)
 
 ##  🌠```Bot Intro```🌠
-[![STAR-MD-V2](https://i.ibb.co/x8RVYs5/20240302-120657.jpg)](https://wa.me/2347045035241)
+[![STAR-MD-V2](https://i.imgur.com/mQDfG3w.jpeg)](https://wa.me/2347045035241)
 </p>
       <p align="center">
   <a href="https://wa.me//+2347045035241" target="_blank">
@@ -50,6 +59,8 @@
 ## ⭐ `Star This Repo`
 If you find STAR-MD-V2 helpful, consider giving it a star ⭐ to show your appreciation,Support.
 
+<a 
+href="https://www.opensourceagenda.com/projects/star-md-v2"><img src="https://www.opensourceagenda.com/projects/star-md-v2/reviews/badge.svg" alt="Open Source Agenda"></a> 
 
 
 🚀𝙵𝙴𝙰𝚃𝚄𝚃𝙴𝚂🚀
@@ -69,26 +80,26 @@ If you find STAR-MD-V2 helpful, consider giving it a star ⭐ to show your appre
 ## 🛠️ `Installation Procedure`
 
 
-☉FORK THE REPOSITORY 
-    <br>
-<a href="https://github.com/Xcelsama/STAR-MD-V2/fork"><img title="STAR-V2" src="https://img.shields.io/badge/FORK STAR-MD?color=blue&black=for-the-badge&logo=stackshare"></a>
+```❏FORK THE REPOSITORY``` 
+  <a href="https://github.com/Xcelsama/STAR-MD-V2/fork" target="_blank">
+  <img src="https://img.shields.io/badge/FORK STAR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+</a>
+
+```❏SCAN-QR```        
+
+<a href="https://star-v2-qr-2ada4eff2d9d.herokuapp.com/" target="_blank">
+  <img src="https://img.shields.io/badge/SCAN QR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+</a>
 
 
 
-◔Get Session ID (PAIR-CODE)                     
-<a href='https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app' target="_blank"><img alt='PAIR-CODE' src='https://img.shields.io/badge/PAIR-CODE100000?style=for-the-badge&logo=scan&logoColor=blue&labelColor=blue&color=black'/></a>
-
-
-
-◔ Get Session ID (SCAN QR)
-    <br>
-<a href='https://session.guruapi.tech/qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/SCAN_QR_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=blue&color=black'/></a>
+```❏GET SESSION ID (PAIR-CODE)```           
  
-
-⚙︎USE THIS IF YOU DON'T HAVE REPLIT                     
-<a href="https://session.guruapi.tech/qr" target="_blank">
+<a href="https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app" target="_blank">
   <img src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
+
+
 
 
 
@@ -193,6 +204,15 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 - This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
 - I am not responsible for banning your account.
 - Use at your own risk by keeping this warning in mind.
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-      <p align="center">[`📡Credits`](https://github.com/salmanytofficial)
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+
+## `CREDITS`
+Baileys by WhisjeySockets  & adiwajshing
+[![adiwajshing](https://github.com/WhiskeySockets.png?size=200)](https://github.com/WhiskeySockets) 
+
+Base by Guru-bot
+[![GURU](https://github.com/Guru322.png?size=200)](https://github.com/Guru322) 
+
+
+Thanks to Salman & Team Xlicon
+[![Salman](https://github.com/salmanytofficial.png?size=200)](https://github.com/salmanytofficial)
